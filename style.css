@@ -94,6 +94,7 @@ input::placeholder{
 @media (max-width: 468px) {
       input[type="email"] {
         width: 150px;
+        margin-bottom: 10px;
     }
     .man-img{
        width: 100%;
