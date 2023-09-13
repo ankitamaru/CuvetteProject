@@ -80,3 +80,13 @@ input::placeholder{
     background-color: #282828;
     padding: 20px 0px;
 }
+
+
+/* media mobile phone */
+
+@media (max-width: 768px) {
+    .header{
+        flex-direction: column;
+        padding: 50px;
+    }
+}
