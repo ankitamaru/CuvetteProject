@@ -92,4 +92,8 @@ input::placeholder{
     input[type="email"] {
         width: 150px;
     }
+    .man-img{
+       width: 100%;
+       height: auto;
+  }
 }
