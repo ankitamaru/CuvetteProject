@@ -89,4 +89,8 @@ input::placeholder{
         flex-direction: column;
         padding: 50px;
     }
+  input[type="email"] {
+ 
+    width: 180px;
+}
 }
